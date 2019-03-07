@@ -1,0 +1,5 @@
+{
+    "default_port" : 5000,
+    "default_server_url" : "default.server.url.in.config.file"
+}
+
